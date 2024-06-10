@@ -1,0 +1,3 @@
+[submodule "local/external/LPCNet"]
+	path = extensions/lpcnet/LPCNet
+	url = git@github.com:xiph/LPCNet.git

@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools", "cython", "wheel", "numpy"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lpcnet"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = ["Cython", "numpy", "wheel", ]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["*"]
+exclude = ["tests*", ]
+namespaces = false

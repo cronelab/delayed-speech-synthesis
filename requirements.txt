@@ -1,0 +1,14 @@
+numpy==1.26.3
+scipy==1.11.4
+pydub==0.25.1
+tqdm==4.66.1
+matplotlib==3.8.2
+Cython==3.0.8
+h5py==3.10.0
+tables==3.9.2
+scikit-learn==1.4.0
+pyzmq==25.0.0
+mne==1.6.1
+torchinfo==1.8.0
+tensorboard==2.16.2
+pandas==2.1.4
